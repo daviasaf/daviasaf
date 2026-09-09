@@ -1,33 +1,24 @@
-<h1 align="center">Davi Asaf</h1>
+<h1 align="center">Olá, eu sou o Davi Asaf 👋</h1>
 
-<p align="center">Nuxt · Vue · TypeScript</p>
+<p align="center">Técnico em Informática · Eletromecânica · Engenharia Mecânica</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,nodejs,tailwind,prisma,supabase,postgres,mongodb,vercel&theme=light" alt="Tecnologias: Nuxt, Vue, TypeScript, Node.js, Tailwind, Prisma, Supabase, PostgreSQL, MongoDB e Vercel" />
+## Sobre mim
+
+Sou técnico em informática e apaixonado por tecnologia. Atualmente estudo Eletromecânica e Engenharia Mecânica.
+
+Tenho interesse em inteligência artificial, impressão 3D e em transformar ideias em projetos usando código — inclusive no meu tempo de vibecoding.
+
+### Ferramentas que aparecem nos meus projetos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,nodejs,prisma,supabase,postgres,mongodb,vercel,cpp&theme=light" alt="Nuxt, Vue, TypeScript, Node.js, Prisma, Supabase, PostgreSQL, MongoDB, Vercel e C++" />
 </p>
 
-## Projetos
+### Projetos
 
-### [GraziTur](https://github.com/daviasaf/grazitur-v2)
+[GraziTur](https://github.com/daviasaf/grazitur-v2) · [Edifício 118](https://github.com/daviasaf/edificio-118) · [Portal Águia](https://portal-aguia-atletica.vercel.app) · [Ender 3 V2/S1](https://github.com/daviasaf/Ender3V2S1)
 
-Painel para gestão de excursões, passageiros, contratos, pagamentos e relatórios.
 
-<img src="https://skillicons.dev/icons?i=nuxt,vue,ts,prisma,supabase,postgres&theme=light" height="36" alt="Nuxt, Vue, TypeScript, Prisma, Supabase e PostgreSQL" />
-
-### [Edifício 118](https://github.com/daviasaf/edificio-118)
-
-Loja streetwear com catálogo, gestão de drops e painel administrativo.
-
-<img src="https://skillicons.dev/icons?i=nuxt,vue,ts,tailwind,prisma,mongodb,vercel&theme=light" height="36" alt="Nuxt, Vue, TypeScript, Tailwind, Prisma, MongoDB e Vercel" />
-
-### [Portal Águia](https://portal-aguia-atletica.vercel.app)
-
-Portal da Atlética de Engenharia da UFRJ Macaé, com área de sócios e gestão administrativa.
-
-<img src="https://skillicons.dev/icons?i=nuxt,vue,ts,supabase,postgres&theme=light" height="36" alt="Nuxt, Vue, TypeScript, Supabase e PostgreSQL" />
-
-### [Ender 3 V2/S1](https://github.com/daviasaf/Ender3V2S1)
-
-Firmware para impressoras Creality Ender 3 V2 e S1.
-
-<img src="https://skillicons.dev/icons?i=cpp&theme=light" height="36" alt="C++" />
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlxemViNWFtd3p3Ynd3eTc0Zm9nejdseTB0OGUxODVnYzIydmRoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7gdXSIVy5RnEHvFTh/giphy.gif" width="520" alt="Luffy enfrentando Kaido" />
+</p>
