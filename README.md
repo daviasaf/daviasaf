@@ -4,9 +4,9 @@
 
 ## Sobre mim
 
-Sou técnico em informática e apaixonado por tecnologia. Atualmente estudo Eletromecânica e Engenharia Mecânica.
+Técnico em informática apaixonado por tecnologia. Estudante de Eletromecânica e Engenharia Mecânica.
 
-Tenho interesse em inteligência artificial, impressão 3D e em transformar ideias em projetos usando código — inclusive no meu tempo de vibecoding.
+Impressão 3D e Inteligência Artificial. 
 
 ### Ferramentas que aparecem nos meus projetos
 
